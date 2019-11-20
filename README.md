@@ -1,3 +1,4 @@
+## 暂停维护，预计 1 月最后上线一次
 # MBR-Assistant
 ## 只是单纯的做软件，做最实用的软件  --MBRjun
 ### [Wiki](https://github.com/MBR-Studio/MBR-Assistant/wiki)     [Issues](https://github.com/MBR-Studio/MBR-Assistant/issues)
