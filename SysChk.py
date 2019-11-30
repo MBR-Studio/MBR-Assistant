@@ -19,7 +19,7 @@ import socket
 print('自检完成，请稍后')
 print('软件信息：')
 #软件信息部分
-ver = '4.1 Release'
+ver = '4.1.1 Release'
 print('版本号为 v' + ver)
 
 
